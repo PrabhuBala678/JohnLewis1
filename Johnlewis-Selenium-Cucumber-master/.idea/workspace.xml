@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b9fec5a-c49f-4582-9106-561f0a5b5b59" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__net_sourceforge_htmlunit_htmlunit_2_17.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_apache_httpcomponents_httpmime_4_4_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_eclipse_jetty_jetty_io_9_2_11_v20150529.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_eclipse_jetty_jetty_util_9_2_11_v20150529.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_eclipse_jetty_websocket_websocket_api_9_2_11_v20150529.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_eclipse_jetty_websocket_websocket_client_9_2_11_v20150529.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_eclipse_jetty_websocket_websocket_common_9_2_11_v20150529.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_edge_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_leg_rc_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_2_47_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\shop\Documents\JohnLewis5\Johnlewis-Selenium-Cucumber-master\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_2_47_1.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/features/FuncStepDef.java" afterPath="$PROJECT_DIR$/src/test/java/features/FuncStepDef.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cucumber-java-template.iml" afterPath="$PROJECT_DIR$/cucumber-java-template.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="cucumber-java-template.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/features/FuncStepDef.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.64041096">
-              <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+              <caret line="79" column="10" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1163,7 +1143,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/features/FuncStepDef.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64041096">
-          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+          <caret line="79" column="10" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

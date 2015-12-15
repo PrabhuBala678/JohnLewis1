@@ -77,6 +77,7 @@ public class FuncStepDef {
     @Then("^the Subject should be \"(.*?)\" and fail$")
     public void the_Subject_should_be_fail(String arg1) throws Throwable {
         Assert.assertFalse(homePage.checkHeader(arg1));
+        System.out.println("correction");
     }
 
 

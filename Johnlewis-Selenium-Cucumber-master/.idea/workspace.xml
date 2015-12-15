@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b9fec5a-c49f-4582-9106-561f0a5b5b59" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/features/FuncStepDef.java" afterPath="$PROJECT_DIR$/src/test/java/features/FuncStepDef.java" />
-    </list>
+    <list default="true" id="6b9fec5a-c49f-4582-9106-561f0a5b5b59" name="Default" comment="" />
     <ignored path="cucumber-java-template.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
